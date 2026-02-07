@@ -9,5 +9,9 @@
     <p>
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa modi mollitia vel omnis aspernatur voluptates consequatur fugit totam. Facere maiores ut numquam soluta. Dolor molestiae alias suscipit cumque quibusdam facere.
     </p>
+    <ul>
+        <li> 1 </li>
+        <li> 2 </li>
+    </ul>
 </body>
 </html>
